@@ -1,4 +1,4 @@
-# Bike store landing
+# Museum MET landing page extra
 
 ## Project Description
 
